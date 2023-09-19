@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Brute": {
+      "commandName": "Project",
+      "commandLineArgs": "Brute"
+    },
+    "Optimised": {
+      "commandName": "Project",
+      "commandLineArgs": "Optimised"
+    },
+    "Test": {
+      "commandName": "Project",
+      "commandLineArgs": "Test"
+    }
+  }
+}
